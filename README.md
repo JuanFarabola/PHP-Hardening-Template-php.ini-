@@ -108,7 +108,7 @@ You can easily derive other profiles:
 ---
 
 ## Author
- (Prosdo.com CEO).
+
 Maintained by [Prosdo.com](https://prosdo.com) and Farabola Juan (Prosdo.com CEO).
 
 If you are using this template in production or in your hosting stack, feel free to open an issue or share feedback.
